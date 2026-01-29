@@ -23,7 +23,7 @@ npm startdsfsd
 
 npm test
 
-## Architektura
+## Architekturasdfsd
 
 Aplikacja oparta o REST API z pamięcią lokalną.
 
