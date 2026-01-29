@@ -1,4 +1,8 @@
-# Task Manager
+# 
+
+# \## Opis projektu
+
+# Aplikacja webowa REST API do zarządzania zadaniami (Task Manager).Task Manager
 
 Prosta aplikacja webowa CRUD do zarządzania zadaniami.
 
