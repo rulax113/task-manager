@@ -9,7 +9,7 @@ Prosta aplikacja webowa CRUD do zarządzania zadaniami.
 ## Technologie
 
 * Node.js
-* Express
+* Expressasdfasd
 * Git
 * Docker
 * Jest
