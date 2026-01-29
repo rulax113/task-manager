@@ -16,7 +16,7 @@ Prosta aplikacja webowa CRUD do zarządzania zadaniami.
 
 ## Uruchomienie lokalne
 
-npm install
+npm installdasd
 npm startdsfsd
 
 ## Testy
