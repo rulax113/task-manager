@@ -25,3 +25,5 @@ Aplikacja oparta o REST API z pamięcią lokalną.
 
 CRUD functionality tested using Thunder Client.
 
+Automated tests were executed using Jest and Supertest.
+
